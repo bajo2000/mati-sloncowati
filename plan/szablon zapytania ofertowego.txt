@@ -1,0 +1,49 @@
+Terminy i koszty wykonania zadanego stanu
+Znajomoœæ technologii np.. Konkretnego stropu
+Sposób zakupu i dostawy materia³ów budowlanych
+Opinie internetowe
+Dotychczasowe realizacje
+Referencje od by³ych inwestorów
+Œlepy' kosztorys
+Umowa: Warunki zdania dziennika budowy (tylko co to jest?)
+Umowa: Warunki zawierania umów z podwykonawcami
+Warunki zerwania umowy
+Jak rozwi¹zuja problem dostêpu do wody/pr¹du?
+Czy maj¹ certyfikat znajomoœci materia³u budowlanego
+Czy maja w³asnego kierownika budowy
+Sposób komunikacji i raportowania postêpu prac inwestorowi
+Ile zatrudnia w³asnych pracowników (i od czego s¹ fachowcami)
+Czy firma posiada ca³y niezbêdny sprzêt budowlany i narzêdzia
+Jak zabezpieczaj¹ teren budowy?
+Sposób rozliczania i czy bior¹ zaliczki.
+
+
+i 'œlepy' kosztorys
+
+::STAN SUROWY
+:Poziom zero
+Roboty ziemne
+Fundamenty
+Izolacja fundamentów
+Podk³ady
+:Œciany
+Œciany parteru
+Œciany poddasza
+Komin i kana³y wentylacyjne
+:Zbrojenie
+:Dach
+Konstrukcja
+Pokrycie
+::STOLARKA
+Okna i drzewi zewn
+::WYKOÑCZENIE
+Œcianki dzia³owe
+Ocieplenie stropu poddasza
+Stolarka wewnêtrzna
+Tynki
+Izolacje podposadzkowe
+Pod³oga i posadzki
+Malowanie
+Elewacja
+Opaska
+Taras wejœcie
