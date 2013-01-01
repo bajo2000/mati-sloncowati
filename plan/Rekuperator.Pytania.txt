@@ -11,3 +11,4 @@
 - jak to pracuje z kot³em gazowym? (tzn co to jest "mozliwosc nastawienia komfortowej temperatury na streowniku R- czy to oznacza np sterowanie praca nagrzewnicy lub wy³¹czaniem/w³¹czaniem by-passa?)
 - Rekuperatory maj¹ od 3 do 5 biegów. W jkaich warunkach dzia³aj¹ na  skrajnych biegach?
 - jakie s¹ najczêstsze b³edy instalacji? (niektore sterowniki je rejestruj¹) Jaka jest œrednia awaryjnoœc rekuperatora i instalacji? Czemu instalacja ma tylko 2letni¹ gwarancjê?
+- na jakim etapie najlepiej montowac instalacjê? co zrobiæ ze znajduj¹cymi siê w projekcie kominami wentylacyjnymi? budowaæ je czy co z nimi zrobiæ? co powiedziec ekipie budowlanej?
